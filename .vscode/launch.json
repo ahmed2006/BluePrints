@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-BluePrintsMain<BluePrints>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "edu.kings.cs480.BluePrints.BluePrintsMain",
+      "projectName": "BluePrints",
+      "args": ""
+    }
+  ]
+}

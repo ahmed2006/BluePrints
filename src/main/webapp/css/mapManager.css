@@ -1,0 +1,11 @@
+.floorList {
+  display: table;
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  border: 2px dashed #f69c55;
+}
+.floorList > .floorName {
+  display: table-cell;
+  vertical-align: middle;
+}

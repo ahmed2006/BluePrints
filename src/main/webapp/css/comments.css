@@ -1,0 +1,12 @@
+#commentSection {
+  max-height:200px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  display: block;
+}
+
+#commentTable tr {
+    display:table;
+    width:100%;
+    table-layout:fixed;
+}
